@@ -9,7 +9,10 @@ Para identificar o melhor cluster, é feita uma comparação entre as médias da
 
 Primeiramente, é necessário apresentar a descrição de cada variável para melhor entendimento do processo de comparação:
 
-* **Índice de Gini da renda domiciliar per capita:** é um índice que mensura a desigualdade social de uma região e que varia entre 0 e 1. Valores próximos de 1 representam alto nível de desigualdade e próximo de zero baixo nível de desigualdade. Neste caso, é considerado uma variável negativa.
+* **Índice de Gini da renda domiciliar per capita:** é um índice que mensura a desigualdade social de uma região e que varia entre 0 e 1. Valores próximos de 1 representam alto nível de desigualdade e, próximo de zero, baixo nível de desigualdade. Neste caso, é considerado uma **variável negativa**.
 
+* **Índice de Desenvolvimento Humano Municipal (IDH-M):** mensura o desenvolvimento de um município com base em três âmbitos sociais, a longevidade, educação e renda. Um bom indicador para a inclusão de uma nova empresa, já que define ajuda na comparação do poder de compra e qualidade de vida de um município. É considerado uma **variável positiva**.
+
+* 
 
 
