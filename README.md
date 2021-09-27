@@ -1,4 +1,4 @@
-# Clusterização de Municípios Mineiros
+# Clusterização dos Municípios Mineiros
 O objetivo principal desse projeto é identificar municípios que apresentam as melhores características para a inclusão de uma nova linha de supermercados. Para isso, foram utilizados dados, socioeconômicos e outros, dos municípios de Minas Gerais e, a partir da comparação das médias dos clusters, poder identificar o grupo de municípios que apresentam as melhores médias das variáveis.
 
 São consideradas **variáveis positivas** aquelas que afetam positivamente o poder aquisitivo das pessoas, em que um aumento dessa variável seria benéfico para a nova linha de supermercados. Da mesma forma, as **variáveis negativas** são aquelas que afetam negativamente o mercado consumidor, em que seu alto valor seria uma barreira para a entrada de novos estabelecimentos do setor.
