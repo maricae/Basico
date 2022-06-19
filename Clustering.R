@@ -72,6 +72,6 @@ print(km.res) # visualizar medias de cada cluster
 # Comparando as medias, o cluster numero 2 apresenta as melhores variaveis positivas e negativas
 
 ## Separando um base com os melhores municipios ##
-best.data <- data.clusters[data.clusters$clusters.data==2,]
+best.data <- data.clusters[data.clusters$clusters.data==1,]
 View(best.data)
 
